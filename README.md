@@ -1,4 +1,4 @@
-# Drowsy-Driver-Detector
+# Drowsy-Driver-Detector System
 # Authors: Youssef Reda Mahomed, Mostafa Mohamed Boghaddy
 
 # The problem
