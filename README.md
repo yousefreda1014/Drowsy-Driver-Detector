@@ -30,7 +30,7 @@ Use a modern camera to improve detection accuracy.
 Ensure the system minimizes noise for better signal clarity.
 Integrate with the car’s existing safety systems for enhanced performance.
 # Literature Cited
-**Drowsy Driving: Asleep at the Wheel. (2019, November 7). Retrieved from CDC.
-**Drowsy Driving. (n.d.). Retrieved from Sleep Foundation.
-**Visual Recognition using Deep Learning. (n.d.). Retrieved from OpenCV.
+-**Drowsy Driving: Asleep at the Wheel. (2019, November 7). Retrieved from CDC.
+-**Drowsy Driving. (n.d.). Retrieved from Sleep Foundation.
+-**Visual Recognition using Deep Learning. (n.d.). Retrieved from OpenCV.
 
