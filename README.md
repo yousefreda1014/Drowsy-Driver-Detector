@@ -10,8 +10,7 @@ Most accidents are due to drivers becoming tired or sleepy. Our project aims to 
 
 # Methods
 
-[1619561047134.jpeg
-](https://github.com/yousefreda1014/Drowsy-Driver-Detector/blob/d8c232300b03dc3543b9f649fd4a5dfb7ba44d8e/1619561047134.jpeg)
+(https://github.com/yousefreda1014/Drowsy-Driver-Detector/blob/d8c232300b03dc3543b9f649fd4a5dfb7ba44d8e/1619561047134.jpeg)
 Mount the camera and connect it to Arduino to form a basic recognition setup.
 Configure the camera to detect eye closures and send signals to a buzzer to wake up the driver.
 Implement facial recognition to analyze the driver’s eye movements.
